@@ -45,7 +45,7 @@ Run the development server:
 Bash
 npm run dev
 Open in browser:
-Visit http://localhost:3000 to view the dashboard.
+Visit http://localhost:3000/login to view the dashboard.
 
 📈 Architecture & Compliance
 This project follows the AI Ambulance Dispatch System Architecture v2.0 blueprint.
